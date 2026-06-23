@@ -1,0 +1,27 @@
+# QIYUEXIANG Website Robots.txt
+# https://qiyuexiang.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://qiyuexiang.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 10
+
+# Disallow admin or private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /api/
+
+# Allow important resources
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Block common bot traps
+Disallow: /*.php$
+Disallow: /*.cgi$
+Disallow: /*.pl$

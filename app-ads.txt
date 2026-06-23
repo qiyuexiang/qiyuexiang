@@ -1,0 +1,18 @@
+# app-ads.txt for QIYUEXIANG Mobile Applications
+# https://qiyuexiang.com/app-ads.txt
+#
+# This file is reserved for mobile advertising platform configurations.
+# Add your app-ads.txt content from Google AdMob, Facebook Audience Network, 
+# Unity Ads, and other mobile ad networks here.
+#
+# For Google AdMob:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+# For Facebook Audience Network:
+# facebook.com, PUBXXXXXXXXXXXXXXXX, DIRECT, c6b42e8a4fda0dd5
+#
+# For Unity Ads:
+# unity3d.com, PUBXXXXXXXXXXXXXXXX, DIRECT, 4bf54f4f38f25738
+#
+# Add your network configurations below this line:
+# ==========================================
